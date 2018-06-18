@@ -1,0 +1,195 @@
+body {
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+}
+/*1*/ /* TForm */
+.form {
+  border: 1px solid black;
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  background: #d4d0c8;
+  top: 0px;
+  left: 0px;
+  width: 1000px;
+  height: 500px;
+}
+/*2*/ /* TPanel */
+.panel {
+  border: 1px solid black;
+  position: absolute;
+  background: #d4d0c8;
+  top: 5px;
+  left: 5px;
+  width: 200px;
+  height: 200px;
+}
+/*3*/ /* TPaintBox */
+.paintbox {
+  border: 1px solid black;
+  background: #fff;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 200px;
+  height: 200px;
+}
+/*4*/ /* TMemo */
+.memo {
+  border: 1px solid black;
+  position: absolute;
+  margin: 0px;
+  padding: 0px;
+  resize: none;
+}
+/*5*/ /* TButton */
+.button {
+  top: 5px;
+  left: 5px;
+  width: 80px;
+  height: 25px;
+  position: absolute;
+}
+/*6*/ /* TEdit */
+.edit {
+  border: 1px solid black;
+  top: 5px;
+  left: 5px;
+  width: 100px;
+  height: 20px;
+  position: absolute;
+}
+/*7*/ /* TTrackBar */
+.trackbar {
+  margin: 0px;
+  padding: 0px;
+  top: 5px;
+  left: 5px;
+  width: 100px;
+  height: 20px;
+  position: absolute;
+}
+/*8*/ /* TLableEdit */
+.lableedit  {
+  
+}
+/*9*/ /* TCheckBox */
+.checkbox  {
+  border: 1px solid black;
+  margin: 0px;
+  padding: 0px;
+  top: 5px;
+  left: 5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+/*10*/ /* TRadioButton */
+.radiobutton  {
+  border: 1px solid black;
+  margin: 0px;
+  padding: 0px;
+  top: 5px;
+  left: 5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+/*11*/ /* TListBox */
+.listbox  {
+  
+}
+/*12*/ /* TComboBox */
+.combobox  {
+  
+}
+/*13*/ /* TGroupBox */
+.groupbox  {
+  
+}
+/*14*/ /* TRadioGroup */
+.radiogroup {
+  
+}
+/*15*/ /* TMainMenu */
+.mainmenu {
+  
+}
+/*16*/ /* TTreeView */
+.treeview {
+  
+}
+/*17*/ /* TColorDialog */
+.colordialog {
+  border: 1px solid black;
+  margin: 0px;
+  padding: 0px;
+  top: 5px;
+  left: 5px;
+  width: 100px;
+  height: 20px;
+  position: absolute;
+}
+/*18*/ /* TSpeedButton */
+.speedbutton {
+  
+}
+/*19*/ /* TLable */
+.lable {
+  
+}
+/*20*/ /* TSpinEdit */
+.spinedit {
+  border: 1px solid black;
+  top: 5px;
+  left: 5px;
+  width: 100px;
+  height: 20px;
+  position: absolute;
+}
+/*21*/ /* TScrollBox */
+.scrollbox {
+  
+}
+/*22*/ /* TStringGrid */
+.stringgrid {
+  
+}
+/*23*/ /* TImage */
+.image {
+  
+}
+/*24*/ /* TProgressBar */
+.progressbar {
+  
+}
+/*25*/ /* TDateTimePicker */
+.datetimepicker {
+  
+}
+/*26*/ /* TMonthCalendar */
+.monthcalendar {
+  
+}
+/*27*/ /* TChart */
+.chart {
+  border: 1px solid black;
+  background: #fff;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 200px;
+  height: 200px;
+}
+/*28*/ /* T */
+
+/*29*/ /* T */
+
+/*30*/ /* T */
+
+/*31*/ /* T */
+
+/*32*/ /* T */
